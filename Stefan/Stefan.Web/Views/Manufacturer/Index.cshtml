@@ -1,0 +1,16 @@
+﻿@model Stefan.Web.ViewModels.ManufacturerIndexViewModel
+    
+<a href="@Url.Action("Create")">Create</a>
+<table>
+    @foreach (var manufacturer in Model.Manufacturers)
+    {
+    <tr>
+        <td>@manufacturer.Id</td>
+        <td>@manufacturer.Name</td>
+        <td>@manufacturer.LogoPath</td>
+        <td>@manufacturer.Comment</td>
+        <td>@manufacturer.ViewOrder</td>
+        <td>@manufacturer.CreateDate</td>
+    </tr>
+    }
+</table>

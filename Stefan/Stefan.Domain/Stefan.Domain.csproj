@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Stefan.Core\Stefan.Core.csproj" />
+    <ProjectReference Include="..\Stefan.DataAccess\Stefan.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

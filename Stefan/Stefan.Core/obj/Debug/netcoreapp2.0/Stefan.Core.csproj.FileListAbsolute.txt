@@ -1,0 +1,9 @@
+c:\users\dandi\source\repos\Stefan\Stefan.Core\bin\Debug\netcoreapp2.0\Stefan.Core.deps.json
+c:\users\dandi\source\repos\Stefan\Stefan.Core\bin\Debug\netcoreapp2.0\Stefan.Core.dll
+c:\users\dandi\source\repos\Stefan\Stefan.Core\bin\Debug\netcoreapp2.0\Stefan.Core.pdb
+c:\users\dandi\source\repos\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.csprojResolveAssemblyReference.cache
+c:\users\dandi\source\repos\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.csproj.CoreCompileInputs.cache
+c:\users\dandi\source\repos\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.AssemblyInfoInputs.cache
+c:\users\dandi\source\repos\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.AssemblyInfo.cs
+c:\users\dandi\source\repos\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.dll
+c:\users\dandi\source\repos\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.pdb
