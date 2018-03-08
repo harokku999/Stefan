@@ -19,29 +19,9 @@ namespace Stefan.Web.Controllers
 
         public async Task<IActionResult> Index()
         {
-            List<Manufacturer> manufacturerModels = await _manufacturerService.GetAll();
-            List<ManufacturerDetailsViewModel> manufacturerViewModels = new List<ManufacturerDetailsViewModel>();
-
-            foreach (var manufacturerModel in manufacturerModels)
-            {
-                var newViewModel = new ManufacturerDetailsViewModel();
-
-                newViewModel.Name = manufacturerModel.Name;
-                newViewModel.LogoPath = manufacturerModel.LogoPath;
-                newViewModel.ViewOrder = manufacturerModel.ViewOrder;
-                newViewModel.Comment = manufacturerModel.Comment;
-                newViewModel.CreateDate = manufacturerModel.CreateDate;
-                newViewModel.Id = manufacturerModel.Id;
-
-                manufacturerViewModels.Add(newViewModel);
-            }
-
-
-            var viewModel = new ManufacturerIndexViewModel();
-            viewModel.Manufacturers = manufacturerViewModels;
-
-            return View(viewModel);
-
+            var manufacturerModels = await _manufacturerService.GetAll();
+           
+            var viewModel = new ManufacturerIndexViewModel()
             {
                 Manufacturers = manufacturerModels.Select(m => new ManufacturerDetailsViewModel
                 {

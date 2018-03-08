@@ -3700,7 +3700,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dandi\\.nuget\\packages\\": {},
+    "C:\\Users\\Daniel_Koczur\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -3710,18 +3710,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.Domain\\Stefan.Domain.csproj",
+      "projectUniqueName": "c:\\Projects\\Stefan\\Stefan\\Stefan.Domain\\Stefan.Domain.csproj",
       "projectName": "Stefan.Domain",
-      "projectPath": "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.Domain\\Stefan.Domain.csproj",
-      "packagesPath": "C:\\Users\\Dandi\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.Domain\\obj\\",
+      "projectPath": "c:\\Projects\\Stefan\\Stefan\\Stefan.Domain\\Stefan.Domain.csproj",
+      "packagesPath": "C:\\Users\\Daniel_Koczur\\.nuget\\packages\\",
+      "outputPath": "c:\\Projects\\Stefan\\Stefan\\Stefan.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dandi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Daniel_Koczur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -3735,11 +3735,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.DataAccess\\Stefan.DataAccess.csproj": {
-              "projectPath": "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.DataAccess\\Stefan.DataAccess.csproj"
+            "c:\\Projects\\Stefan\\Stefan\\Stefan.DataAccess\\Stefan.DataAccess.csproj": {
+              "projectPath": "c:\\Projects\\Stefan\\Stefan\\Stefan.DataAccess\\Stefan.DataAccess.csproj"
             },
-            "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.Core\\Stefan.Core.csproj": {
-              "projectPath": "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.Core\\Stefan.Core.csproj"
+            "c:\\Projects\\Stefan\\Stefan\\Stefan.Core\\Stefan.Core.csproj": {
+              "projectPath": "c:\\Projects\\Stefan\\Stefan\\Stefan.Core\\Stefan.Core.csproj"
             }
           }
         }

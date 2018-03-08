@@ -13255,7 +13255,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dandi\\.nuget\\packages\\": {},
+    "C:\\Users\\Daniel_Koczur\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -13265,18 +13265,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.Web\\Stefan.Web.csproj",
+      "projectUniqueName": "c:\\Projects\\Stefan\\Stefan\\Stefan.Web\\Stefan.Web.csproj",
       "projectName": "Stefan.Web",
-      "projectPath": "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.Web\\Stefan.Web.csproj",
-      "packagesPath": "C:\\Users\\Dandi\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.Web\\obj\\",
+      "projectPath": "c:\\Projects\\Stefan\\Stefan\\Stefan.Web\\Stefan.Web.csproj",
+      "packagesPath": "C:\\Users\\Daniel_Koczur\\.nuget\\packages\\",
+      "outputPath": "c:\\Projects\\Stefan\\Stefan\\Stefan.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dandi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Daniel_Koczur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -13290,8 +13290,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.Domain\\Stefan.Domain.csproj": {
-              "projectPath": "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.Domain\\Stefan.Domain.csproj"
+            "c:\\Projects\\Stefan\\Stefan\\Stefan.Domain\\Stefan.Domain.csproj": {
+              "projectPath": "c:\\Projects\\Stefan\\Stefan\\Stefan.Domain\\Stefan.Domain.csproj"
             }
           }
         }

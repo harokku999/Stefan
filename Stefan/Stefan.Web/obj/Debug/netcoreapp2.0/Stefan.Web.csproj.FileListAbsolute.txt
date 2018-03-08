@@ -15,3 +15,9 @@ c:\users\dandi\source\repos\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.Dom
 c:\users\dandi\source\repos\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.DataAccess.pdb
 c:\users\dandi\source\repos\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.Core.dll
 c:\users\dandi\source\repos\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.Core.pdb
+c:\Projects\Stefan\Stefan\Stefan.Web\obj\Debug\netcoreapp2.0\Stefan.Web.csprojResolveAssemblyReference.cache
+c:\Projects\Stefan\Stefan\Stefan.Web\obj\Debug\netcoreapp2.0\Stefan.Web.csproj.CoreCompileInputs.cache
+c:\Projects\Stefan\Stefan\Stefan.Web\obj\Debug\netcoreapp2.0\Stefan.Web.AssemblyInfoInputs.cache
+c:\Projects\Stefan\Stefan\Stefan.Web\obj\Debug\netcoreapp2.0\Stefan.Web.AssemblyInfo.cs
+c:\Projects\Stefan\Stefan\Stefan.Web\obj\Debug\netcoreapp2.0\Stefan.Web.dll
+c:\Projects\Stefan\Stefan\Stefan.Web\obj\Debug\netcoreapp2.0\Stefan.Web.pdb

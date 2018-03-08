@@ -7,3 +7,12 @@ c:\users\dandi\source\repos\Stefan\Stefan.DataAccess\obj\Debug\netcoreapp2.0\Ste
 c:\users\dandi\source\repos\Stefan\Stefan.DataAccess\obj\Debug\netcoreapp2.0\Stefan.DataAccess.AssemblyInfo.cs
 c:\users\dandi\source\repos\Stefan\Stefan.DataAccess\obj\Debug\netcoreapp2.0\Stefan.DataAccess.dll
 c:\users\dandi\source\repos\Stefan\Stefan.DataAccess\obj\Debug\netcoreapp2.0\Stefan.DataAccess.pdb
+c:\Projects\Stefan\Stefan\Stefan.DataAccess\bin\Debug\netcoreapp2.0\Stefan.DataAccess.deps.json
+c:\Projects\Stefan\Stefan\Stefan.DataAccess\bin\Debug\netcoreapp2.0\Stefan.DataAccess.dll
+c:\Projects\Stefan\Stefan\Stefan.DataAccess\bin\Debug\netcoreapp2.0\Stefan.DataAccess.pdb
+c:\Projects\Stefan\Stefan\Stefan.DataAccess\obj\Debug\netcoreapp2.0\Stefan.DataAccess.csprojResolveAssemblyReference.cache
+c:\Projects\Stefan\Stefan\Stefan.DataAccess\obj\Debug\netcoreapp2.0\Stefan.DataAccess.csproj.CoreCompileInputs.cache
+c:\Projects\Stefan\Stefan\Stefan.DataAccess\obj\Debug\netcoreapp2.0\Stefan.DataAccess.AssemblyInfoInputs.cache
+c:\Projects\Stefan\Stefan\Stefan.DataAccess\obj\Debug\netcoreapp2.0\Stefan.DataAccess.AssemblyInfo.cs
+c:\Projects\Stefan\Stefan\Stefan.DataAccess\obj\Debug\netcoreapp2.0\Stefan.DataAccess.dll
+c:\Projects\Stefan\Stefan\Stefan.DataAccess\obj\Debug\netcoreapp2.0\Stefan.DataAccess.pdb

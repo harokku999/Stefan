@@ -3666,7 +3666,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Dandi\\.nuget\\packages\\": {},
+    "C:\\Users\\Daniel_Koczur\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -3676,18 +3676,18 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.DataAccess\\Stefan.DataAccess.csproj",
+      "projectUniqueName": "c:\\Projects\\Stefan\\Stefan\\Stefan.DataAccess\\Stefan.DataAccess.csproj",
       "projectName": "Stefan.DataAccess",
-      "projectPath": "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.DataAccess\\Stefan.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\Dandi\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\dandi\\source\\repos\\Stefan\\Stefan.DataAccess\\obj\\",
+      "projectPath": "c:\\Projects\\Stefan\\Stefan\\Stefan.DataAccess\\Stefan.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\Daniel_Koczur\\.nuget\\packages\\",
+      "outputPath": "c:\\Projects\\Stefan\\Stefan\\Stefan.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Dandi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Daniel_Koczur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],

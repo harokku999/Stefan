@@ -11,3 +11,16 @@ c:\users\dandi\source\repos\Stefan\Stefan.Domain\bin\Debug\netcoreapp2.0\Stefan.
 c:\users\dandi\source\repos\Stefan\Stefan.Domain\bin\Debug\netcoreapp2.0\Stefan.DataAccess.pdb
 c:\users\dandi\source\repos\Stefan\Stefan.Domain\bin\Debug\netcoreapp2.0\Stefan.Core.dll
 c:\users\dandi\source\repos\Stefan\Stefan.Domain\bin\Debug\netcoreapp2.0\Stefan.Core.pdb
+c:\Projects\Stefan\Stefan\Stefan.Domain\bin\Debug\netcoreapp2.0\Stefan.Domain.deps.json
+c:\Projects\Stefan\Stefan\Stefan.Domain\bin\Debug\netcoreapp2.0\Stefan.Domain.dll
+c:\Projects\Stefan\Stefan\Stefan.Domain\bin\Debug\netcoreapp2.0\Stefan.Domain.pdb
+c:\Projects\Stefan\Stefan\Stefan.Domain\bin\Debug\netcoreapp2.0\Stefan.Core.dll
+c:\Projects\Stefan\Stefan\Stefan.Domain\bin\Debug\netcoreapp2.0\Stefan.DataAccess.dll
+c:\Projects\Stefan\Stefan\Stefan.Domain\bin\Debug\netcoreapp2.0\Stefan.Core.pdb
+c:\Projects\Stefan\Stefan\Stefan.Domain\bin\Debug\netcoreapp2.0\Stefan.DataAccess.pdb
+c:\Projects\Stefan\Stefan\Stefan.Domain\obj\Debug\netcoreapp2.0\Stefan.Domain.csprojResolveAssemblyReference.cache
+c:\Projects\Stefan\Stefan\Stefan.Domain\obj\Debug\netcoreapp2.0\Stefan.Domain.csproj.CoreCompileInputs.cache
+c:\Projects\Stefan\Stefan\Stefan.Domain\obj\Debug\netcoreapp2.0\Stefan.Domain.AssemblyInfoInputs.cache
+c:\Projects\Stefan\Stefan\Stefan.Domain\obj\Debug\netcoreapp2.0\Stefan.Domain.AssemblyInfo.cs
+c:\Projects\Stefan\Stefan\Stefan.Domain\obj\Debug\netcoreapp2.0\Stefan.Domain.dll
+c:\Projects\Stefan\Stefan\Stefan.Domain\obj\Debug\netcoreapp2.0\Stefan.Domain.pdb

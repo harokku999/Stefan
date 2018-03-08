@@ -7,3 +7,12 @@ c:\users\dandi\source\repos\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Co
 c:\users\dandi\source\repos\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.AssemblyInfo.cs
 c:\users\dandi\source\repos\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.dll
 c:\users\dandi\source\repos\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.pdb
+c:\Projects\Stefan\Stefan\Stefan.Core\bin\Debug\netcoreapp2.0\Stefan.Core.deps.json
+c:\Projects\Stefan\Stefan\Stefan.Core\bin\Debug\netcoreapp2.0\Stefan.Core.dll
+c:\Projects\Stefan\Stefan\Stefan.Core\bin\Debug\netcoreapp2.0\Stefan.Core.pdb
+c:\Projects\Stefan\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.csprojResolveAssemblyReference.cache
+c:\Projects\Stefan\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.csproj.CoreCompileInputs.cache
+c:\Projects\Stefan\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.AssemblyInfoInputs.cache
+c:\Projects\Stefan\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.AssemblyInfo.cs
+c:\Projects\Stefan\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.dll
+c:\Projects\Stefan\Stefan\Stefan.Core\obj\Debug\netcoreapp2.0\Stefan.Core.pdb
