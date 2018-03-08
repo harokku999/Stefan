@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Stefan.Web.ViewModels
 {
@@ -18,6 +19,12 @@ namespace Stefan.Web.ViewModels
 
         [Display(Name = "View order")]
         public int? ViewOrder { get; set; }
+    }
+
+    public class ManufacturerEditViewModel : ManufacturerCreateViewModel
+    {
+        [HiddenInput(DisplayValue = false)]
+        public int Id { get; set; }
     }
 
     public class ManufacturerDetailsViewModel

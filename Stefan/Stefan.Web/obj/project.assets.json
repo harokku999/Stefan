@@ -5067,6 +5067,7 @@
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "EntityFramework": "6.2.0",
+          "Microsoft.EntityFrameworkCore": "2.0.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.0.1",
           "Microsoft.EntityFrameworkCore.Sqlite": "2.0.1",
           "System.Data.SQLite": "1.0.108"
@@ -5082,8 +5083,13 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
+          "EntityFramework": "6.2.0",
+          "Microsoft.EntityFrameworkCore": "2.0.1",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.0.1",
+          "Microsoft.EntityFrameworkCore.Sqlite": "2.0.1",
           "Stefan.Core": "1.0.0",
-          "Stefan.DataAccess": "1.0.0"
+          "Stefan.DataAccess": "1.0.0",
+          "System.Data.SQLite": "1.0.108"
         },
         "compile": {
           "bin/placeholder/Stefan.Domain.dll": {}

@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
+﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using Stefan.Core;
 using Stefan.DataAccess;
@@ -11,36 +8,44 @@ namespace Stefan.Domain
 {
     public interface IManufacturerService
     {
-        Task Add(Manufacturer model);
-        Task<List<Manufacturer>> GetAll();
+        Task Create(Manufacturer model);
+        Task<IList<Manufacturer>> GetAll();
+        Task<Manufacturer> Get(int id);
+        Task Edit(Manufacturer model);
     }
 
     public class ManufacturerService : IManufacturerService
     {
+        private readonly IGenericRepository<Manufacturer> _manufacturerRepository;
         private readonly IDateTimeService _dateTimeService;
 
-        public ManufacturerService(IDateTimeService dateTimeService)
+        public ManufacturerService(
+            IGenericRepository<Manufacturer> manufacturerRepository,
+            IDateTimeService dateTimeService)
         {
+            _manufacturerRepository = manufacturerRepository;
             _dateTimeService = dateTimeService;
         }
 
-        public async Task Add(Manufacturer model)
+        public async Task Create(Manufacturer model)
         {
-            using (var context = new StefanDbContext())
-            {
-                model.CreateDate = _dateTimeService.Get();
-
-                context.Manufacturers.Add(model);
-                await context.SaveChangesAsync();
-            }
+            model.CreateDate = _dateTimeService.Get();
+            await _manufacturerRepository.Create(model);
         }
 
-        public async Task<List<Manufacturer>> GetAll()
+        public async Task<IList<Manufacturer>> GetAll()
         {
-            using (var context = new StefanDbContext())
-            {
-                return context.Manufacturers.ToList();
-            }
+            return await _manufacturerRepository.GetAll();
+        }
+
+        public async Task<Manufacturer> Get(int id)
+        {
+            return await _manufacturerRepository.Get(id);
+        }
+
+        public async Task Edit(Manufacturer model)
+        {
+            await _manufacturerRepository.Edit(model);
         }
     }
 }

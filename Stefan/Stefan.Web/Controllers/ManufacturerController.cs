@@ -1,5 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
+﻿using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Stefan.DataAccess.Entities;
@@ -53,9 +52,32 @@ namespace Stefan.Web.Controllers
                 ViewOrder = viewModel.ViewOrder
             };
 
-            await _manufacturerService.Add(model);
+            await _manufacturerService.Create(model);
 
             return RedirectToAction(nameof(Create));
+        }
+
+
+        public async Task<IActionResult> Edit(int id)
+        {
+            var model = await _manufacturerService.Get(id);
+
+            var viewModel = new ManufacturerEditViewModel
+            {
+                Name = model.Name,
+                LogoPath = model.LogoPath,
+                Comment = model.Comment,
+                ViewOrder = model.ViewOrder,
+                Id = model.Id
+            };
+
+            return View(viewModel);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(ManufacturerEditViewModel viewModel)
+        {
+            return View();
         }
     }
 }

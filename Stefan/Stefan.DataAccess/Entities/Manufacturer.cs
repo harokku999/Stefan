@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Stefan.DataAccess.Entities
 {
-    public class Manufacturer
+    public class Manufacturer : IEntity
     {
         [Column("rowid")]
         public int Id { get; set; }

@@ -7,7 +7,7 @@ namespace Stefan.DataAccess
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source=D:\\Stefan.db;");
+            optionsBuilder.UseSqlite("Data Source=..\\..\\db\\Stefan.db;");
         }
 
         public DbSet<Manufacturer> Manufacturers { get; set; }

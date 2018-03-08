@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Stefan.Core;
+using Stefan.DataAccess;
 using Stefan.Domain;
 
 namespace Stefan.Web
@@ -25,9 +26,11 @@ namespace Stefan.Web
         {
             services.AddMvc();
 
+            services.AddTransient<StefanDbContext, StefanDbContext>();
             services.AddTransient<IManufacturerService, ManufacturerService>();
             services.AddTransient<IDateTimeService, DateTimeService>();
-            
+            services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

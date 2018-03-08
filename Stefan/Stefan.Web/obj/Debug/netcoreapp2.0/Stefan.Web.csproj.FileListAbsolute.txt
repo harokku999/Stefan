@@ -21,3 +21,14 @@ c:\Projects\Stefan\Stefan\Stefan.Web\obj\Debug\netcoreapp2.0\Stefan.Web.Assembly
 c:\Projects\Stefan\Stefan\Stefan.Web\obj\Debug\netcoreapp2.0\Stefan.Web.AssemblyInfo.cs
 c:\Projects\Stefan\Stefan\Stefan.Web\obj\Debug\netcoreapp2.0\Stefan.Web.dll
 c:\Projects\Stefan\Stefan\Stefan.Web\obj\Debug\netcoreapp2.0\Stefan.Web.pdb
+C:\Projects\Stefan\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.Web.deps.json
+C:\Projects\Stefan\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.Web.runtimeconfig.json
+C:\Projects\Stefan\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.Web.runtimeconfig.dev.json
+C:\Projects\Stefan\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.Web.dll
+C:\Projects\Stefan\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.Web.pdb
+C:\Projects\Stefan\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.Core.dll
+C:\Projects\Stefan\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.DataAccess.dll
+C:\Projects\Stefan\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.Domain.dll
+C:\Projects\Stefan\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.Domain.pdb
+C:\Projects\Stefan\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.Core.pdb
+C:\Projects\Stefan\Stefan\Stefan.Web\bin\Debug\netcoreapp2.0\Stefan.DataAccess.pdb
